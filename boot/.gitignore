@@ -1,0 +1,8 @@
+*.o
+*.bin
+*.a
+*.elf
+nakOS
+output.map
+os.map
+bochsout.txt
